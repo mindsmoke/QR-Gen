@@ -23,4 +23,3 @@ QR-Gen is a simple QR code generator application built with PyQt5 and Python.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
