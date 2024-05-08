@@ -18,8 +18,8 @@ QR-Gen is a simple QR code generator application built with PyQt5 and Python.
 3. Run the application: `python3 qr-gen.py`
 
 ## Screenshots
-![light mode](https://r2.interrupted.me/img/PUcR.png "light mode")
-![dark mode](https://r2.interrupted.me/img/wafo.png "dark mode")
+![light mode](https://r2.interrupted.me/img/6fqJ.png "light mode")
+![dark mode](https://r2.interrupted.me/img/ErHd.png "dark mode")
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
